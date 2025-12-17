@@ -1,1 +1,2 @@
-currently working on ruchodrodzenianarodu.pl | ron.org.pl
+an ordinary guy who has been in IT since 2020 
+web develompent & ctfs - cybersec
